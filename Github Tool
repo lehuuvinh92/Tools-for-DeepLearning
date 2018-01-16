@@ -20,5 +20,6 @@ git add *
 git commit - m "Notes for commit"
 git remote add origin https://github.com/lehuuvinh92/Tools-for-DeepLearning.git
 git push -u origin master
+git pull # Update local repository and commit latest change
 
 Step 5: Enjoy
