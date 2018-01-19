@@ -28,7 +28,7 @@ git pull # Update local repository and commit latest change
 git remote add origin https://github.com/lehuuvinh92/Tools-for-DeepLearning.git
 git push -u origin master
 # fix errors
-git rm -r --cached <folder_nam>
+git rm -r --cached <folder_name>
 git pull --rebase
 
 Step 5: Enjoy
