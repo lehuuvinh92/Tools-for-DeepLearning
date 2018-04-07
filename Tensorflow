@@ -15,5 +15,6 @@ $ conda create -n tensorflow python=3.6
 Step 2: Use tensorflow
 acer@aspire:~$ source activate tensorflow
 (tensorflow) acer@aspire:~$ spyder
+Windows: activate tensorflow
 
 Step 3: Enjoy
